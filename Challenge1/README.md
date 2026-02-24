@@ -1,20 +1,52 @@
-# JavaScript Selectors Practice
 
-This project demonstrates:
+---
+
+## 🧩 Challenge 1 – DOM Selectors Practice
+
+### 🔹 Concepts Covered
 
 - Selecting elements using `getElementById`
 - Selecting elements using `getElementsByClassName`
+- Modifying styles dynamically
 - Adding event listeners
-- Modifying styles using JavaScript
+- Looping through HTMLCollection
 
-## Concepts Learned
+### 🔹 Technologies Used
 
-1. DOM Selection by ID
-2. DOM Selection by Class
-3. Looping through HTMLCollection
-4. Event Handling in JavaScript
+- HTML5
+- CSS3
+- JavaScript (Vanilla JS)
 
-## How to Run
+---
 
-Open `index.html` in your browser.
-Click the button to see the color changes.
+## ▶️ How to Run
+
+1. Clone the repository
+
+2. Open `Challenge1/index.html` in your browser.
+
+3. Click the button to see DOM manipulation in action.
+
+---
+
+## 🎯 Learning Outcome
+
+Through this challenge, I practiced:
+
+- Understanding how the DOM works
+- Connecting JavaScript with HTML elements
+- Writing clean and structured frontend code
+- Basic interactivity using event listeners
+
+---
+
+## 📈 Future Plans
+
+- Add more DOM-based mini projects
+- Practice `querySelector` and `querySelectorAll`
+- Build small UI components (tabs, modals, counters)
+- Start small real-world frontend projects
+
+---
+
+### 💡 This repository will continue to grow as I complete more frontend challenges.
